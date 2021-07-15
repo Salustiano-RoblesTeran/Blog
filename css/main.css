@@ -205,3 +205,31 @@ footer p {
     color: #fff;
     margin-top: 30px;
 }
+
+.contact-main-conatiner {
+    width: 100%;
+    min-height: 250px;
+    background-color: #e6e9e9ed;
+    text-align: center;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+.contact-main-conatiner div {
+    display: inline-block;
+    width: 49.5%;
+    height: 100%;
+}
+
+.contact-main-conatiner div a {
+    border-bottom: 1px solid black;
+    padding-bottom: 5px;
+}
+
+.contact-main-container .contact-left, .contact-right {
+    text-align: initial;
+    margin-top: 85px;
+}
+
+.contact-main-conatiner img {
+    width: 120px;
+}
