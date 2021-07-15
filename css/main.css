@@ -26,6 +26,7 @@ a {
 
 .grid-container {
     max-width: 980px;
+    margin: 0 auto;
 }
 
 header {
@@ -205,3 +206,9 @@ footer p {
     color: #fff;
     margin-top: 30px;
 }
+
+.blogposts-img-container {
+    padding: 0 50px 40px;
+    background-image: url('');
+}
+
